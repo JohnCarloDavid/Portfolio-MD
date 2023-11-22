@@ -1,0 +1,79 @@
+* {
+    margin: 0 auto;
+}
+.navi1{
+    background-color: #051f6e;
+}
+.text1{
+    color:rgb(255, 255, 255);
+}
+.text2{
+    color: white;
+    text-align:justify;
+}
+.a-1{
+    font-family: 'Lora';
+}
+h1{
+    font-family: 'Manuale';
+}
+.h4-1{
+    font-family: 'Martel Sans';
+}
+h4{
+    font-family: 'Martel Sans';
+}
+h2{
+    font-family: 'Martel Sans';
+}
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+    padding: 0;
+}
+.bt1{
+    background-color: #A78C00;
+    position: relative; top: 100px;
+    left: 230px;
+}
+#hero{
+    background-image: url(gfycat-network-background-7ceo8pg1xxgcqj90.gif);
+
+}
+#work{
+    background-image: url(gfycat-network-background-7ceo8pg1xxgcqj90.gif);
+
+}
+#certificates{
+    background-image: url(gfycat-network-background-7ceo8pg1xxgcqj90.gif);
+
+}
+#services{
+    background-image: url(gfycat-network-background-7ceo8pg1xxgcqj90.gif);
+
+}
+#about{
+    background-image: url(gfycat-network-background-7ceo8pg1xxgcqj90.gif);
+
+}
+#contact{
+    background-image: url(gfycat-network-background-7ceo8pg1xxgcqj90.gif);
+
+}
+#navbarNav{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+.body {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+/* MOBILE */
+body {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+/* General styles */
+body {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
